@@ -82,5 +82,5 @@ timestamp,cpu.%usr,cpu.%nice,cpu.%sys,cpu.%iowait,cpu.%steal,cpu.%irq,cpu.%soft,
 We run the sar tool in the background with a sampling interval of 5 seconds.
 
 ```
-sar -p -A -o /tmp/sar.dat 5
+sar -p -A -o sar.dat 5
 ```
