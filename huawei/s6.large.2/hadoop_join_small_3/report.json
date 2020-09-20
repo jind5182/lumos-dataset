@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "small", "elapsed_time": "103.012", "framework": "hadoop", "input_size": "19201694", "program": "HadoopJoin", "throughput_cluster": "186402", "throughput_node": "186402", "timestamp": "2020-07-13 03:27:42", "workload": "join"}

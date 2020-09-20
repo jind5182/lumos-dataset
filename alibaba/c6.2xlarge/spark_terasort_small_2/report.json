@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "small", "elapsed_time": "12.755", "framework": "spark", "input_size": "320000000", "program": "ScalaSparkTerasort", "throughput_cluster": "25088200", "throughput_node": "25088200", "timestamp": "2020-09-18 22:35:45", "workload": "terasort"}

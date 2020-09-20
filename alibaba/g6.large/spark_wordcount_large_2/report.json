@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "large", "elapsed_time": "61.724", "framework": "spark", "input_size": "3284901939", "program": "ScalaSparkWordcount", "throughput_cluster": "53219200", "throughput_node": "53219200", "timestamp": "2020-09-18 20:20:29", "workload": "wordcount"}

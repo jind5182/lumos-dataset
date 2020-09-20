@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "tiny", "elapsed_time": "39.936", "framework": "hadoop", "input_size": "37968", "program": "HadoopAggregation", "throughput_cluster": "950", "throughput_node": "950", "timestamp": "2020-09-18 12:39:06", "workload": "aggregation"}

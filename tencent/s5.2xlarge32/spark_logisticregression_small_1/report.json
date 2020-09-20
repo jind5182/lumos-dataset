@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "small", "elapsed_time": "16.623", "framework": "spark", "input_size": "80062008", "program": "LogisticRegression", "throughput_cluster": "4816339", "throughput_node": "4816339", "timestamp": "2020-09-18 14:36:24", "workload": "logisticregression"}

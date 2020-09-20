@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "small", "elapsed_time": "10.406", "framework": "spark", "input_size": "1811191", "program": "ScalaSparkPagerank", "throughput_cluster": "174052", "throughput_node": "174052", "timestamp": "2020-09-18 14:51:27", "workload": "pagerank"}
