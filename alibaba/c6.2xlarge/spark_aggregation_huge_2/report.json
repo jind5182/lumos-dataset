@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "huge", "elapsed_time": "37.672", "framework": "spark", "input_size": "372377994", "program": "ScalaSparkAggregation", "throughput_cluster": "9884741", "throughput_node": "9884741", "timestamp": "2020-10-02 15:23:10", "workload": "aggregation"}

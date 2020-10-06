@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "huge", "elapsed_time": "89.209", "framework": "spark", "input_size": "3284933868", "program": "ScalaSparkSort", "throughput_cluster": "36822897", "throughput_node": "36822897", "timestamp": "2020-10-02 14:46:07", "workload": "sort"}

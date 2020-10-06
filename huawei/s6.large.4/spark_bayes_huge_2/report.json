@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "huge", "elapsed_time": "437.868", "framework": "spark", "input_size": "1881786739", "program": "ScalaSparkBayes", "throughput_cluster": "4297611", "throughput_node": "4297611", "timestamp": "2020-10-02 19:51:33", "workload": "bayes"}

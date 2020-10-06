@@ -21,10 +21,5 @@ This data repository includes large-scale performance data of Hadoop and Spark a
 * c3.large8, c3.large16, c3.2xlarge16, c3,2xlarge32
 * m5.medium16, m5.large32, m5.2xlarge64
 
-### UCloud
-* N 2CPU 4GB, N 2CPU 8GB, N 2CPU 16GB
-* N 4CPU 8GB, N 4CPU 16GB, N 4CPU 32GB
-* N 8CPU 16GB, N 8CPU 32GB, N 8CPU 64GB
-
 ## Workloads
-For each application, we use four different inputs—either data inputs or input parameters. Since some workloads cannot complete on some of the VM types, we totally have about 50 workloads with full performance data on 55 VM types.
+For each application, we use four different inputs—either data inputs or input parameters. Since some workloads cannot complete on some of the VM types, we totally have about 6 workloads with full performance data on 46 VM types.

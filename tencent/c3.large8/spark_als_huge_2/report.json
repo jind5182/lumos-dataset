@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "huge", "elapsed_time": "229.822", "framework": "spark", "input_size": "721571472", "program": "ALS", "throughput_cluster": "3139697", "throughput_node": "3139697", "timestamp": "2020-10-02 16:59:07", "workload": "als"}
