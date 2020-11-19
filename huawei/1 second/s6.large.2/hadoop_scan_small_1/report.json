@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "small", "elapsed_time": "51.323", "framework": "hadoop", "input_size": "20104750", "program": "HadoopScan", "throughput_cluster": "391729", "throughput_node": "391729", "timestamp": "2020-11-18 19:36:09", "workload": "scan"}

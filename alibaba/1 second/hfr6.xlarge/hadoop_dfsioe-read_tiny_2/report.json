@@ -1,0 +1,1 @@
+{"completed": true, "datasize": "tiny", "elapsed_time": "65.811", "framework": "hadoop", "input_size": "16884004", "program": "HadoopDfsioe-read", "throughput_cluster": "256552", "throughput_node": "256552", "timestamp": "2020-11-19 11:27:38", "workload": "dfsioe-read"}
