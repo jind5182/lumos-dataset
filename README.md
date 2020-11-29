@@ -1,5 +1,5 @@
 # Introduction
-This data repository includes large-scale performance data of Hadoop and Spark applications on Alibaba Cloud, HUAWEI Cloud, Tencent Cloud and UCloud. Since performance varies with different inputs, our data includes multiple combinations of applications and inputs. We use workload to describe an application and its input. The workloads are extracted from HiBench.
+This data repository includes large-scale performance data on Alibaba Cloud, HUAWEI Cloud and Tencent Cloud. Since performance varies with different inputs, our data includes multiple combinations of applications and inputs. We use workload to describe an application and its input. The workloads are extracted from HiBench and BigDataBench.
 
 ## VM Types
 
@@ -20,6 +20,3 @@ This data repository includes large-scale performance data of Hadoop and Spark a
 * s5.medium4, s5.medium8, s5.large8, s5.large16, s5.2xlarge16, s5.2xlarge32
 * c3.large8, c3.large16, c3.2xlarge16, c3,2xlarge32
 * m5.medium16, m5.large32, m5.2xlarge64
-
-## Workloads
-For each application, we use four different inputs—either data inputs or input parameters. Since some workloads cannot complete on some of the VM types, we totally have about 6 workloads with full performance data on 46 VM types.
