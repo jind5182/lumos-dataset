@@ -1,0 +1,1 @@
+{"workload": "pagerank", "timestamp": "2020-12-05 15:36:22", "completed": true, "elapsed_time": "519.531", "framework": "hadoop", "program": "HadoopPagerank", "throughput_cluster": "500351", "input_size": "259947887", "datasize": "large", "throughput_node": "500351"}

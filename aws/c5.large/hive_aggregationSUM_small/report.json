@@ -1,0 +1,1 @@
+{"workload": "aggregationSUM", "completed": true, "elapsed_time": 39.0, "framework": "hive", "end_time": "2020-12-06 01:34:32", "begin_time": "2020-12-06 01:33:53", "datasize": "small"}

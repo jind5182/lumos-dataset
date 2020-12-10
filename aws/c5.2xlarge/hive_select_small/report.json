@@ -1,0 +1,1 @@
+{"workload": "select", "completed": true, "elapsed_time": 47.0, "framework": "hive", "end_time": "2020-12-06 01:22:43", "begin_time": "2020-12-06 01:21:56", "datasize": "small"}

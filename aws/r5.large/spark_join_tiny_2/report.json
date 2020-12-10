@@ -1,0 +1,1 @@
+{"workload": "join", "timestamp": "2020-12-05 12:59:59", "completed": true, "elapsed_time": "31.950", "framework": "spark", "program": "ScalaSparkJoin", "throughput_cluster": "6236", "input_size": "199243", "datasize": "tiny", "throughput_node": "6236"}

@@ -1,0 +1,1 @@
+{"workload": "scan", "timestamp": "2020-12-05 12:58:28", "completed": true, "elapsed_time": "20.270", "framework": "spark", "program": "ScalaSparkScan", "throughput_cluster": "10174", "input_size": "206231", "datasize": "tiny", "throughput_node": "10174"}
